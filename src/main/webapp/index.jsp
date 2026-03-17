@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is my web developing skill</h2>
+<h2>this is my skill</h2>
 </body>
 </html>
